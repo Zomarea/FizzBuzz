@@ -1,2 +1,2 @@
-# Python-FizzBuzz
-The really simple FizzBuzz problem, solved in Python...because why not. 
+# FizzBuzz
+The really simple FizzBuzz problem...because why not.
